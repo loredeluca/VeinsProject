@@ -1,4 +1,2 @@
 # VeinsProject
-Project on the Vehicular Adhoc Network
-
-                                --->Soon the complete description of the project <---
+Project on the Vehicular Adhoc Network based on information propagation delay with and without RSU.
